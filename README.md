@@ -70,7 +70,9 @@ Testing the webserver.
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-11-08 230005.png>)
-![Alt text](Screenshot...123.png)
+![out1](https://github.com/user-attachments/assets/5e42128c-1170-49d3-922e-ff00851a2b7e)
+![out2](https://github.com/user-attachments/assets/b433837f-5e96-4472-b12c-daed30dd3e0e)
+
+
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
