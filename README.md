@@ -1,5 +1,4 @@
-# EX01 Developing a Simple Webserver
-## Date:6.10.2023
+# EX01 Developing a Simple Webserve
 
 ## AIM:
 To develop a simple webserver to serve html pages.
